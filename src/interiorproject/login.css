@@ -1,0 +1,24 @@
+body{
+    background-image: url('D:\R PROJECT\sanjayd\src\loginpj.png');
+    background-size: cover;
+    text-align: center;
+}
+button{
+    border-radius: 250%;
+    font-size:x-large;
+    text-shadow: 5px 5px 5px black;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: rgb(255, 255, 255);
+}
+.username{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}.l1{
+    height: 200px;
+    width: 200px;
+}
+.bgcl{
+    background-color: grey;
+    width: 40%;
+    margin: auto;
+}
